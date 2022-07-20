@@ -1,1 +1,1 @@
-alert('Hola mundo modificado');
+alert('Hola mundo');
